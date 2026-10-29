@@ -1,0 +1,51 @@
+id,texto,classe,pred,confidence,answer_conf
+1,Requerimento de aposentadoria por idade.,concessao,concessao,0.2829,0.5264
+2,Pedido de pensão por morte para viúva e dois filhos menores.,concessao,gestao_pessoas,0.1534,0.4523
+3,Solicitação de auxílio-doença após cirurgia no joelho.,concessao,atendimento,0.1105,0.4445
+4,Requerimento de BPC para pessoa idosa de baixa renda.,concessao,atendimento,0.5098,0.7722
+5,Pedido de salário-maternidade após o nascimento do filho.,concessao,gestao_pessoas,0.2049,0.4648
+6,Solicitação de auxílio-reclusão para dependentes de segurado preso.,concessao,disciplinar,0.0743,0.3202
+7,Requerimento de aposentadoria por tempo de contribuição com pedido de contagem especial.,concessao,concessao,0.4899,0.5231
+8,Pedido de aposentadoria por invalidez com laudo médico anexo.,concessao,concessao,0.6819,0.8574
+9,Solicitação de BPC para pessoa com deficiência.,concessao,gestao_pessoas,0.1322,0.4342
+10,Requerimento de pensão por morte para companheira com união estável comprovada.,concessao,atendimento,0.1394,0.3897
+11,Solicitação de revisão do valor da aposentadoria.,manutencao,concessao,0.3457,0.6627
+12,Pedido de reativação de benefício cessado por falta de prova de vida.,manutencao,gestao_pessoas,0.0924,0.2994
+13,Segurado envia comprovante de prova de vida.,manutencao,disciplinar,0.0956,0.387
+14,Pedido de alteração de endereço no cadastro do beneficiário.,manutencao,gestao_pessoas,0.1847,0.5283
+15,Solicitação de mudança da conta bancária para recebimento do benefício.,manutencao,atendimento,0.0891,0.4228
+16,Requerimento de revisão da vida toda.,manutencao,atendimento,0.2748,0.4634
+17,Pedido de reativação de pensão suspensa.,manutencao,gestao_pessoas,0.2597,0.5947
+18,Atualização de dados cadastrais do titular do benefício.,manutencao,gestao_pessoas,0.1164,0.4591
+19,Solicitação de alteração da agência bancária de pagamento.,manutencao,atendimento,0.5403,0.8134
+20,Pedido de revisão do tempo de contribuição já concedido.,manutencao,manutencao,0.6474,0.8554
+21,Abertura de PAD contra servidor por abandono de cargo.,disciplinar,gestao_pessoas,0.7599,0.9049
+22,Instauração de sindicância para apurar denúncia de irregularidade.,disciplinar,disciplinar,0.849,0.9528
+23,Aplicação de advertência a servidor por descumprimento de dever funcional.,disciplinar,disciplinar,0.3225,0.6318
+24,Portaria que designa comissão de investigação administrativa.,disciplinar,disciplinar,0.3999,0.7229
+25,Relatório final de processo administrativo disciplinar.,disciplinar,disciplinar,1.0,1.0
+26,Denúncia de conduta funcional inadequada de servidor no atendimento.,disciplinar,atendimento,0.8431,0.95
+27,Notificação de defesa prévia ao servidor acusado em PAD.,disciplinar,disciplinar,0.9581,0.9899
+28,Sindicância investigativa sobre extravio de documentos.,disciplinar,disciplinar,0.3138,0.5496
+29,Proposta de penalidade de suspensão após conclusão de PAD.,disciplinar,disciplinar,0.9005,0.973
+30,Instauração de investigação administrativa por suposto conflito de interesses.,disciplinar,disciplinar,0.3095,0.6604
+31,Reclamação sobre a demora na fila da agência.,atendimento,atendimento,0.9741,0.9942
+32,Solicitação de agendamento de atendimento presencial.,atendimento,atendimento,0.928,0.9816
+33,Manifestação da Ouvidoria sobre mau atendimento telefônico.,atendimento,atendimento,0.9367,0.9844
+34,Cidadão pede remarcação de atendimento remoto.,atendimento,atendimento,0.6316,0.8458
+35,Reclamação de que o site de agendamento está fora do ar.,atendimento,atendimento,0.9391,0.9843
+36,Elogio ao atendimento prestado pela equipe da agência.,atendimento,atendimento,0.9896,0.998
+37,Pedido de informação sobre horário de funcionamento da unidade.,atendimento,atendimento,0.5958,0.832
+38,Demanda da Ouvidoria sobre protocolo de atendimento não respondido.,atendimento,atendimento,0.3628,0.6991
+39,Pedido de agendamento pelo canal de atendimento telefônico.,atendimento,atendimento,0.994,0.9989
+40,Reclamação sobre falta de acessibilidade no atendimento presencial.,atendimento,atendimento,0.9863,0.9973
+41,Pedido de férias para o mês de janeiro.,gestao_pessoas,gestao_pessoas,0.9974,0.9995
+42,Solicitação de licença para tratamento de saúde do servidor.,gestao_pessoas,gestao_pessoas,0.5948,0.7793
+43,Escala de plantão da equipe para o mês de dezembro.,gestao_pessoas,gestao_pessoas,0.6381,0.8619
+44,Folha de ponto do servidor referente ao mês de outubro.,gestao_pessoas,manutencao,0.0316,0.2833
+45,Inscrição de servidor em curso de capacitação.,gestao_pessoas,gestao_pessoas,0.5835,0.8241
+46,Solicitação de remoção de servidor para outra unidade.,gestao_pessoas,gestao_pessoas,0.2474,0.5731
+47,Pedido de licença-prêmio.,gestao_pessoas,gestao_pessoas,0.9619,0.9903
+48,Ajuste na escala de trabalho presencial e remoto.,gestao_pessoas,gestao_pessoas,0.2611,0.5967
+49,Pedido de interrupção de férias por necessidade do serviço.,gestao_pessoas,gestao_pessoas,0.9944,0.999
+50,Solicitação de licença-maternidade de servidora.,gestao_pessoas,gestao_pessoas,0.9913,0.9984

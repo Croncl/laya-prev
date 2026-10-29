@@ -1,0 +1,51 @@
+id,texto,classe
+1,Requerimento de aposentadoria por idade.,concessao
+2,Pedido de pensão por morte para viúva e dois filhos menores.,concessao
+3,Solicitação de auxílio-doença após cirurgia no joelho.,concessao
+4,Requerimento de BPC para pessoa idosa de baixa renda.,concessao
+5,Pedido de salário-maternidade após o nascimento do filho.,concessao
+6,Solicitação de auxílio-reclusão para dependentes de segurado preso.,concessao
+7,Requerimento de aposentadoria por tempo de contribuição com pedido de contagem especial.,concessao
+8,Pedido de aposentadoria por invalidez com laudo médico anexo.,concessao
+9,Solicitação de BPC para pessoa com deficiência.,concessao
+10,Requerimento de pensão por morte para companheira com união estável comprovada.,concessao
+11,Solicitação de revisão do valor da aposentadoria.,manutencao
+12,Pedido de reativação de benefício cessado por falta de prova de vida.,manutencao
+13,Segurado envia comprovante de prova de vida.,manutencao
+14,Pedido de alteração de endereço no cadastro do beneficiário.,manutencao
+15,Solicitação de mudança da conta bancária para recebimento do benefício.,manutencao
+16,Requerimento de revisão da vida toda.,manutencao
+17,Pedido de reativação de pensão suspensa.,manutencao
+18,Atualização de dados cadastrais do titular do benefício.,manutencao
+19,Solicitação de alteração da agência bancária de pagamento.,manutencao
+20,Pedido de revisão do tempo de contribuição já concedido.,manutencao
+21,Abertura de PAD contra servidor por abandono de cargo.,disciplinar
+22,Instauração de sindicância para apurar denúncia de irregularidade.,disciplinar
+23,Aplicação de advertência a servidor por descumprimento de dever funcional.,disciplinar
+24,Portaria que designa comissão de investigação administrativa.,disciplinar
+25,Relatório final de processo administrativo disciplinar.,disciplinar
+26,Denúncia de conduta funcional inadequada de servidor no atendimento.,disciplinar
+27,Notificação de defesa prévia ao servidor acusado em PAD.,disciplinar
+28,Sindicância investigativa sobre extravio de documentos.,disciplinar
+29,Proposta de penalidade de suspensão após conclusão de PAD.,disciplinar
+30,Instauração de investigação administrativa por suposto conflito de interesses.,disciplinar
+31,Reclamação sobre a demora na fila da agência.,atendimento
+32,Solicitação de agendamento de atendimento presencial.,atendimento
+33,Manifestação da Ouvidoria sobre mau atendimento telefônico.,atendimento
+34,Cidadão pede remarcação de atendimento remoto.,atendimento
+35,Reclamação de que o site de agendamento está fora do ar.,atendimento
+36,Elogio ao atendimento prestado pela equipe da agência.,atendimento
+37,Pedido de informação sobre horário de funcionamento da unidade.,atendimento
+38,Demanda da Ouvidoria sobre protocolo de atendimento não respondido.,atendimento
+39,Pedido de agendamento pelo canal de atendimento telefônico.,atendimento
+40,Reclamação sobre falta de acessibilidade no atendimento presencial.,atendimento
+41,Pedido de férias para o mês de janeiro.,gestao_pessoas
+42,Solicitação de licença para tratamento de saúde do servidor.,gestao_pessoas
+43,Escala de plantão da equipe para o mês de dezembro.,gestao_pessoas
+44,Folha de ponto do servidor referente ao mês de outubro.,gestao_pessoas
+45,Inscrição de servidor em curso de capacitação.,gestao_pessoas
+46,Solicitação de remoção de servidor para outra unidade.,gestao_pessoas
+47,Pedido de licença-prêmio.,gestao_pessoas
+48,Ajuste na escala de trabalho presencial e remoto.,gestao_pessoas
+49,Pedido de interrupção de férias por necessidade do serviço.,gestao_pessoas
+50,Solicitação de licença-maternidade de servidora.,gestao_pessoas
