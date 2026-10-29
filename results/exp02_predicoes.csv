@@ -1,0 +1,226 @@
+id,texto,classe,pred,conf,hit,variante
+1,Requerimento de aposentadoria por idade.,concessao,concessao,0.2829,1,v0_atual
+2,Pedido de pensão por morte para viúva e dois filhos menores.,concessao,gestao_pessoas,0.1534,0,v0_atual
+3,Solicitação de auxílio-doença após cirurgia no joelho.,concessao,atendimento,0.1105,0,v0_atual
+4,Requerimento de BPC para pessoa idosa de baixa renda.,concessao,atendimento,0.5098,0,v0_atual
+5,Pedido de salário-maternidade após o nascimento do filho.,concessao,gestao_pessoas,0.2049,0,v0_atual
+6,Solicitação de auxílio-reclusão para dependentes de segurado preso.,concessao,disciplinar,0.0743,0,v0_atual
+7,Requerimento de aposentadoria por tempo de contribuição com pedido de contagem especial.,concessao,concessao,0.4899,1,v0_atual
+8,Pedido de aposentadoria por invalidez com laudo médico anexo.,concessao,concessao,0.6819,1,v0_atual
+9,Solicitação de BPC para pessoa com deficiência.,concessao,gestao_pessoas,0.1322,0,v0_atual
+10,Requerimento de pensão por morte para companheira com união estável comprovada.,concessao,atendimento,0.1394,0,v0_atual
+11,Solicitação de revisão do valor da aposentadoria.,manutencao,concessao,0.3457,0,v0_atual
+12,Pedido de reativação de benefício cessado por falta de prova de vida.,manutencao,gestao_pessoas,0.0924,0,v0_atual
+13,Segurado envia comprovante de prova de vida.,manutencao,disciplinar,0.0956,0,v0_atual
+14,Pedido de alteração de endereço no cadastro do beneficiário.,manutencao,gestao_pessoas,0.1847,0,v0_atual
+15,Solicitação de mudança da conta bancária para recebimento do benefício.,manutencao,atendimento,0.0891,0,v0_atual
+16,Requerimento de revisão da vida toda.,manutencao,atendimento,0.2748,0,v0_atual
+17,Pedido de reativação de pensão suspensa.,manutencao,gestao_pessoas,0.2597,0,v0_atual
+18,Atualização de dados cadastrais do titular do benefício.,manutencao,gestao_pessoas,0.1164,0,v0_atual
+19,Solicitação de alteração da agência bancária de pagamento.,manutencao,atendimento,0.5403,0,v0_atual
+20,Pedido de revisão do tempo de contribuição já concedido.,manutencao,manutencao,0.6474,1,v0_atual
+21,Abertura de PAD contra servidor por abandono de cargo.,disciplinar,gestao_pessoas,0.7599,0,v0_atual
+22,Instauração de sindicância para apurar denúncia de irregularidade.,disciplinar,disciplinar,0.849,1,v0_atual
+23,Aplicação de advertência a servidor por descumprimento de dever funcional.,disciplinar,disciplinar,0.3225,1,v0_atual
+24,Portaria que designa comissão de investigação administrativa.,disciplinar,disciplinar,0.3999,1,v0_atual
+25,Relatório final de processo administrativo disciplinar.,disciplinar,disciplinar,1.0,1,v0_atual
+26,Denúncia de conduta funcional inadequada de servidor no atendimento.,disciplinar,atendimento,0.8431,0,v0_atual
+27,Notificação de defesa prévia ao servidor acusado em PAD.,disciplinar,disciplinar,0.9581,1,v0_atual
+28,Sindicância investigativa sobre extravio de documentos.,disciplinar,disciplinar,0.3138,1,v0_atual
+29,Proposta de penalidade de suspensão após conclusão de PAD.,disciplinar,disciplinar,0.9005,1,v0_atual
+30,Instauração de investigação administrativa por suposto conflito de interesses.,disciplinar,disciplinar,0.3095,1,v0_atual
+31,Reclamação sobre a demora na fila da agência.,atendimento,atendimento,0.9741,1,v0_atual
+32,Solicitação de agendamento de atendimento presencial.,atendimento,atendimento,0.928,1,v0_atual
+33,Manifestação da Ouvidoria sobre mau atendimento telefônico.,atendimento,atendimento,0.9367,1,v0_atual
+34,Cidadão pede remarcação de atendimento remoto.,atendimento,atendimento,0.6316,1,v0_atual
+35,Reclamação de que o site de agendamento está fora do ar.,atendimento,atendimento,0.9391,1,v0_atual
+36,Elogio ao atendimento prestado pela equipe da agência.,atendimento,atendimento,0.9896,1,v0_atual
+37,Pedido de informação sobre horário de funcionamento da unidade.,atendimento,atendimento,0.5958,1,v0_atual
+38,Demanda da Ouvidoria sobre protocolo de atendimento não respondido.,atendimento,atendimento,0.3628,1,v0_atual
+39,Pedido de agendamento pelo canal de atendimento telefônico.,atendimento,atendimento,0.994,1,v0_atual
+40,Reclamação sobre falta de acessibilidade no atendimento presencial.,atendimento,atendimento,0.9863,1,v0_atual
+41,Pedido de férias para o mês de janeiro.,gestao_pessoas,gestao_pessoas,0.9974,1,v0_atual
+42,Solicitação de licença para tratamento de saúde do servidor.,gestao_pessoas,gestao_pessoas,0.5948,1,v0_atual
+43,Escala de plantão da equipe para o mês de dezembro.,gestao_pessoas,gestao_pessoas,0.6381,1,v0_atual
+44,Folha de ponto do servidor referente ao mês de outubro.,gestao_pessoas,manutencao,0.0316,0,v0_atual
+45,Inscrição de servidor em curso de capacitação.,gestao_pessoas,gestao_pessoas,0.5835,1,v0_atual
+46,Solicitação de remoção de servidor para outra unidade.,gestao_pessoas,gestao_pessoas,0.2474,1,v0_atual
+47,Pedido de licença-prêmio.,gestao_pessoas,gestao_pessoas,0.9619,1,v0_atual
+48,Ajuste na escala de trabalho presencial e remoto.,gestao_pessoas,gestao_pessoas,0.2611,1,v0_atual
+49,Pedido de interrupção de férias por necessidade do serviço.,gestao_pessoas,gestao_pessoas,0.9944,1,v0_atual
+50,Solicitação de licença-maternidade de servidora.,gestao_pessoas,gestao_pessoas,0.9913,1,v0_atual
+1,Requerimento de aposentadoria por idade.,concessao,gestao_pessoas,0.4231,0,v1_curta
+2,Pedido de pensão por morte para viúva e dois filhos menores.,concessao,concessao,0.8039,1,v1_curta
+3,Solicitação de auxílio-doença após cirurgia no joelho.,concessao,atendimento,0.6346,0,v1_curta
+4,Requerimento de BPC para pessoa idosa de baixa renda.,concessao,gestao_pessoas,0.653,0,v1_curta
+5,Pedido de salário-maternidade após o nascimento do filho.,concessao,gestao_pessoas,0.3435,0,v1_curta
+6,Solicitação de auxílio-reclusão para dependentes de segurado preso.,concessao,disciplinar,0.8398,0,v1_curta
+7,Requerimento de aposentadoria por tempo de contribuição com pedido de contagem especial.,concessao,gestao_pessoas,0.2559,0,v1_curta
+8,Pedido de aposentadoria por invalidez com laudo médico anexo.,concessao,disciplinar,0.2612,0,v1_curta
+9,Solicitação de BPC para pessoa com deficiência.,concessao,disciplinar,0.7076,0,v1_curta
+10,Requerimento de pensão por morte para companheira com união estável comprovada.,concessao,concessao,0.305,1,v1_curta
+11,Solicitação de revisão do valor da aposentadoria.,manutencao,gestao_pessoas,0.8181,0,v1_curta
+12,Pedido de reativação de benefício cessado por falta de prova de vida.,manutencao,disciplinar,0.397,0,v1_curta
+13,Segurado envia comprovante de prova de vida.,manutencao,disciplinar,0.1364,0,v1_curta
+14,Pedido de alteração de endereço no cadastro do beneficiário.,manutencao,concessao,0.8552,0,v1_curta
+15,Solicitação de mudança da conta bancária para recebimento do benefício.,manutencao,concessao,0.9382,0,v1_curta
+16,Requerimento de revisão da vida toda.,manutencao,gestao_pessoas,0.4381,0,v1_curta
+17,Pedido de reativação de pensão suspensa.,manutencao,gestao_pessoas,0.1548,0,v1_curta
+18,Atualização de dados cadastrais do titular do benefício.,manutencao,gestao_pessoas,0.508,0,v1_curta
+19,Solicitação de alteração da agência bancária de pagamento.,manutencao,concessao,0.1498,0,v1_curta
+20,Pedido de revisão do tempo de contribuição já concedido.,manutencao,concessao,0.1441,0,v1_curta
+21,Abertura de PAD contra servidor por abandono de cargo.,disciplinar,disciplinar,0.6758,1,v1_curta
+22,Instauração de sindicância para apurar denúncia de irregularidade.,disciplinar,disciplinar,0.9914,1,v1_curta
+23,Aplicação de advertência a servidor por descumprimento de dever funcional.,disciplinar,disciplinar,0.9518,1,v1_curta
+24,Portaria que designa comissão de investigação administrativa.,disciplinar,disciplinar,0.7525,1,v1_curta
+25,Relatório final de processo administrativo disciplinar.,disciplinar,disciplinar,1.0,1,v1_curta
+26,Denúncia de conduta funcional inadequada de servidor no atendimento.,disciplinar,atendimento,0.4627,0,v1_curta
+27,Notificação de defesa prévia ao servidor acusado em PAD.,disciplinar,disciplinar,0.4728,1,v1_curta
+28,Sindicância investigativa sobre extravio de documentos.,disciplinar,disciplinar,0.942,1,v1_curta
+29,Proposta de penalidade de suspensão após conclusão de PAD.,disciplinar,disciplinar,0.6446,1,v1_curta
+30,Instauração de investigação administrativa por suposto conflito de interesses.,disciplinar,disciplinar,0.9235,1,v1_curta
+31,Reclamação sobre a demora na fila da agência.,atendimento,disciplinar,0.4379,0,v1_curta
+32,Solicitação de agendamento de atendimento presencial.,atendimento,atendimento,0.9814,1,v1_curta
+33,Manifestação da Ouvidoria sobre mau atendimento telefônico.,atendimento,atendimento,0.9991,1,v1_curta
+34,Cidadão pede remarcação de atendimento remoto.,atendimento,atendimento,0.9265,1,v1_curta
+35,Reclamação de que o site de agendamento está fora do ar.,atendimento,atendimento,0.6489,1,v1_curta
+36,Elogio ao atendimento prestado pela equipe da agência.,atendimento,atendimento,0.9915,1,v1_curta
+37,Pedido de informação sobre horário de funcionamento da unidade.,atendimento,gestao_pessoas,0.9007,0,v1_curta
+38,Demanda da Ouvidoria sobre protocolo de atendimento não respondido.,atendimento,atendimento,0.7218,1,v1_curta
+39,Pedido de agendamento pelo canal de atendimento telefônico.,atendimento,atendimento,0.9996,1,v1_curta
+40,Reclamação sobre falta de acessibilidade no atendimento presencial.,atendimento,atendimento,0.9571,1,v1_curta
+41,Pedido de férias para o mês de janeiro.,gestao_pessoas,concessao,0.9673,0,v1_curta
+42,Solicitação de licença para tratamento de saúde do servidor.,gestao_pessoas,concessao,0.8493,0,v1_curta
+43,Escala de plantão da equipe para o mês de dezembro.,gestao_pessoas,gestao_pessoas,0.8602,1,v1_curta
+44,Folha de ponto do servidor referente ao mês de outubro.,gestao_pessoas,gestao_pessoas,0.664,1,v1_curta
+45,Inscrição de servidor em curso de capacitação.,gestao_pessoas,gestao_pessoas,0.4699,1,v1_curta
+46,Solicitação de remoção de servidor para outra unidade.,gestao_pessoas,disciplinar,0.4746,0,v1_curta
+47,Pedido de licença-prêmio.,gestao_pessoas,concessao,0.9929,0,v1_curta
+48,Ajuste na escala de trabalho presencial e remoto.,gestao_pessoas,gestao_pessoas,0.8944,1,v1_curta
+49,Pedido de interrupção de férias por necessidade do serviço.,gestao_pessoas,concessao,0.3288,0,v1_curta
+50,Solicitação de licença-maternidade de servidora.,gestao_pessoas,gestao_pessoas,0.4782,1,v1_curta
+1,Requerimento de aposentadoria por idade.,concessao,concessao,0.4819,1,v2_exemplos
+2,Pedido de pensão por morte para viúva e dois filhos menores.,concessao,concessao,0.4857,1,v2_exemplos
+3,Solicitação de auxílio-doença após cirurgia no joelho.,concessao,concessao,0.0933,1,v2_exemplos
+4,Requerimento de BPC para pessoa idosa de baixa renda.,concessao,gestao_pessoas,0.1721,0,v2_exemplos
+5,Pedido de salário-maternidade após o nascimento do filho.,concessao,concessao,0.2424,1,v2_exemplos
+6,Solicitação de auxílio-reclusão para dependentes de segurado preso.,concessao,gestao_pessoas,0.1935,0,v2_exemplos
+7,Requerimento de aposentadoria por tempo de contribuição com pedido de contagem especial.,concessao,concessao,0.2822,1,v2_exemplos
+8,Pedido de aposentadoria por invalidez com laudo médico anexo.,concessao,concessao,0.0795,1,v2_exemplos
+9,Solicitação de BPC para pessoa com deficiência.,concessao,concessao,0.271,1,v2_exemplos
+10,Requerimento de pensão por morte para companheira com união estável comprovada.,concessao,concessao,0.4004,1,v2_exemplos
+11,Solicitação de revisão do valor da aposentadoria.,manutencao,gestao_pessoas,0.1011,0,v2_exemplos
+12,Pedido de reativação de benefício cessado por falta de prova de vida.,manutencao,gestao_pessoas,0.3945,0,v2_exemplos
+13,Segurado envia comprovante de prova de vida.,manutencao,gestao_pessoas,0.1606,0,v2_exemplos
+14,Pedido de alteração de endereço no cadastro do beneficiário.,manutencao,concessao,0.3288,0,v2_exemplos
+15,Solicitação de mudança da conta bancária para recebimento do benefício.,manutencao,concessao,0.5317,0,v2_exemplos
+16,Requerimento de revisão da vida toda.,manutencao,gestao_pessoas,0.2536,0,v2_exemplos
+17,Pedido de reativação de pensão suspensa.,manutencao,gestao_pessoas,0.0926,0,v2_exemplos
+18,Atualização de dados cadastrais do titular do benefício.,manutencao,gestao_pessoas,0.6173,0,v2_exemplos
+19,Solicitação de alteração da agência bancária de pagamento.,manutencao,disciplinar,0.049,0,v2_exemplos
+20,Pedido de revisão do tempo de contribuição já concedido.,manutencao,concessao,0.128,0,v2_exemplos
+21,Abertura de PAD contra servidor por abandono de cargo.,disciplinar,gestao_pessoas,0.8162,0,v2_exemplos
+22,Instauração de sindicância para apurar denúncia de irregularidade.,disciplinar,disciplinar,0.3455,1,v2_exemplos
+23,Aplicação de advertência a servidor por descumprimento de dever funcional.,disciplinar,gestao_pessoas,0.5282,0,v2_exemplos
+24,Portaria que designa comissão de investigação administrativa.,disciplinar,disciplinar,0.4345,1,v2_exemplos
+25,Relatório final de processo administrativo disciplinar.,disciplinar,disciplinar,1.0,1,v2_exemplos
+26,Denúncia de conduta funcional inadequada de servidor no atendimento.,disciplinar,atendimento,0.9205,0,v2_exemplos
+27,Notificação de defesa prévia ao servidor acusado em PAD.,disciplinar,disciplinar,0.5268,1,v2_exemplos
+28,Sindicância investigativa sobre extravio de documentos.,disciplinar,gestao_pessoas,0.1756,0,v2_exemplos
+29,Proposta de penalidade de suspensão após conclusão de PAD.,disciplinar,disciplinar,0.1469,1,v2_exemplos
+30,Instauração de investigação administrativa por suposto conflito de interesses.,disciplinar,disciplinar,0.3527,1,v2_exemplos
+31,Reclamação sobre a demora na fila da agência.,atendimento,atendimento,0.4855,1,v2_exemplos
+32,Solicitação de agendamento de atendimento presencial.,atendimento,atendimento,0.231,1,v2_exemplos
+33,Manifestação da Ouvidoria sobre mau atendimento telefônico.,atendimento,atendimento,0.9704,1,v2_exemplos
+34,Cidadão pede remarcação de atendimento remoto.,atendimento,atendimento,0.4699,1,v2_exemplos
+35,Reclamação de que o site de agendamento está fora do ar.,atendimento,manutencao,0.3284,0,v2_exemplos
+36,Elogio ao atendimento prestado pela equipe da agência.,atendimento,atendimento,0.7516,1,v2_exemplos
+37,Pedido de informação sobre horário de funcionamento da unidade.,atendimento,concessao,0.2135,0,v2_exemplos
+38,Demanda da Ouvidoria sobre protocolo de atendimento não respondido.,atendimento,manutencao,0.0115,0,v2_exemplos
+39,Pedido de agendamento pelo canal de atendimento telefônico.,atendimento,atendimento,0.9191,1,v2_exemplos
+40,Reclamação sobre falta de acessibilidade no atendimento presencial.,atendimento,atendimento,0.8808,1,v2_exemplos
+41,Pedido de férias para o mês de janeiro.,gestao_pessoas,concessao,0.9139,0,v2_exemplos
+42,Solicitação de licença para tratamento de saúde do servidor.,gestao_pessoas,concessao,0.7148,0,v2_exemplos
+43,Escala de plantão da equipe para o mês de dezembro.,gestao_pessoas,gestao_pessoas,0.3623,1,v2_exemplos
+44,Folha de ponto do servidor referente ao mês de outubro.,gestao_pessoas,disciplinar,0.2605,0,v2_exemplos
+45,Inscrição de servidor em curso de capacitação.,gestao_pessoas,gestao_pessoas,0.1367,1,v2_exemplos
+46,Solicitação de remoção de servidor para outra unidade.,gestao_pessoas,disciplinar,0.2489,0,v2_exemplos
+47,Pedido de licença-prêmio.,gestao_pessoas,concessao,0.6278,0,v2_exemplos
+48,Ajuste na escala de trabalho presencial e remoto.,gestao_pessoas,gestao_pessoas,0.1314,1,v2_exemplos
+49,Pedido de interrupção de férias por necessidade do serviço.,gestao_pessoas,disciplinar,0.1834,0,v2_exemplos
+50,Solicitação de licença-maternidade de servidora.,gestao_pessoas,concessao,0.8429,0,v2_exemplos
+1,Requerimento de aposentadoria por idade.,concessao,gestao_pessoas,0.2162,0,v3_contrastiva
+2,Pedido de pensão por morte para viúva e dois filhos menores.,concessao,gestao_pessoas,0.1689,0,v3_contrastiva
+3,Solicitação de auxílio-doença após cirurgia no joelho.,concessao,atendimento,0.2515,0,v3_contrastiva
+4,Requerimento de BPC para pessoa idosa de baixa renda.,concessao,gestao_pessoas,0.4331,0,v3_contrastiva
+5,Pedido de salário-maternidade após o nascimento do filho.,concessao,gestao_pessoas,0.5835,0,v3_contrastiva
+6,Solicitação de auxílio-reclusão para dependentes de segurado preso.,concessao,disciplinar,0.8787,0,v3_contrastiva
+7,Requerimento de aposentadoria por tempo de contribuição com pedido de contagem especial.,concessao,gestao_pessoas,0.2508,0,v3_contrastiva
+8,Pedido de aposentadoria por invalidez com laudo médico anexo.,concessao,disciplinar,0.6418,0,v3_contrastiva
+9,Solicitação de BPC para pessoa com deficiência.,concessao,gestao_pessoas,0.2699,0,v3_contrastiva
+10,Requerimento de pensão por morte para companheira com união estável comprovada.,concessao,gestao_pessoas,0.2607,0,v3_contrastiva
+11,Solicitação de revisão do valor da aposentadoria.,manutencao,gestao_pessoas,0.3354,0,v3_contrastiva
+12,Pedido de reativação de benefício cessado por falta de prova de vida.,manutencao,disciplinar,0.2028,0,v3_contrastiva
+13,Segurado envia comprovante de prova de vida.,manutencao,disciplinar,0.1466,0,v3_contrastiva
+14,Pedido de alteração de endereço no cadastro do beneficiário.,manutencao,concessao,0.1419,0,v3_contrastiva
+15,Solicitação de mudança da conta bancária para recebimento do benefício.,manutencao,concessao,0.1955,0,v3_contrastiva
+16,Requerimento de revisão da vida toda.,manutencao,gestao_pessoas,0.2177,0,v3_contrastiva
+17,Pedido de reativação de pensão suspensa.,manutencao,gestao_pessoas,0.3227,0,v3_contrastiva
+18,Atualização de dados cadastrais do titular do benefício.,manutencao,gestao_pessoas,0.1202,0,v3_contrastiva
+19,Solicitação de alteração da agência bancária de pagamento.,manutencao,gestao_pessoas,0.1402,0,v3_contrastiva
+20,Pedido de revisão do tempo de contribuição já concedido.,manutencao,gestao_pessoas,0.5332,0,v3_contrastiva
+21,Abertura de PAD contra servidor por abandono de cargo.,disciplinar,gestao_pessoas,0.3575,0,v3_contrastiva
+22,Instauração de sindicância para apurar denúncia de irregularidade.,disciplinar,disciplinar,0.441,1,v3_contrastiva
+23,Aplicação de advertência a servidor por descumprimento de dever funcional.,disciplinar,gestao_pessoas,0.4558,0,v3_contrastiva
+24,Portaria que designa comissão de investigação administrativa.,disciplinar,gestao_pessoas,0.4727,0,v3_contrastiva
+25,Relatório final de processo administrativo disciplinar.,disciplinar,disciplinar,1.0,1,v3_contrastiva
+26,Denúncia de conduta funcional inadequada de servidor no atendimento.,disciplinar,atendimento,0.9352,0,v3_contrastiva
+27,Notificação de defesa prévia ao servidor acusado em PAD.,disciplinar,disciplinar,0.1685,1,v3_contrastiva
+28,Sindicância investigativa sobre extravio de documentos.,disciplinar,gestao_pessoas,0.4185,0,v3_contrastiva
+29,Proposta de penalidade de suspensão após conclusão de PAD.,disciplinar,disciplinar,0.3872,1,v3_contrastiva
+30,Instauração de investigação administrativa por suposto conflito de interesses.,disciplinar,gestao_pessoas,0.6541,0,v3_contrastiva
+31,Reclamação sobre a demora na fila da agência.,atendimento,atendimento,0.8588,1,v3_contrastiva
+32,Solicitação de agendamento de atendimento presencial.,atendimento,atendimento,0.9987,1,v3_contrastiva
+33,Manifestação da Ouvidoria sobre mau atendimento telefônico.,atendimento,atendimento,0.9994,1,v3_contrastiva
+34,Cidadão pede remarcação de atendimento remoto.,atendimento,atendimento,0.9878,1,v3_contrastiva
+35,Reclamação de que o site de agendamento está fora do ar.,atendimento,atendimento,0.269,1,v3_contrastiva
+36,Elogio ao atendimento prestado pela equipe da agência.,atendimento,atendimento,0.9992,1,v3_contrastiva
+37,Pedido de informação sobre horário de funcionamento da unidade.,atendimento,atendimento,0.4345,1,v3_contrastiva
+38,Demanda da Ouvidoria sobre protocolo de atendimento não respondido.,atendimento,atendimento,0.9034,1,v3_contrastiva
+39,Pedido de agendamento pelo canal de atendimento telefônico.,atendimento,atendimento,0.9898,1,v3_contrastiva
+40,Reclamação sobre falta de acessibilidade no atendimento presencial.,atendimento,atendimento,0.9898,1,v3_contrastiva
+41,Pedido de férias para o mês de janeiro.,gestao_pessoas,gestao_pessoas,0.2737,1,v3_contrastiva
+42,Solicitação de licença para tratamento de saúde do servidor.,gestao_pessoas,concessao,0.191,0,v3_contrastiva
+43,Escala de plantão da equipe para o mês de dezembro.,gestao_pessoas,gestao_pessoas,0.2552,1,v3_contrastiva
+44,Folha de ponto do servidor referente ao mês de outubro.,gestao_pessoas,disciplinar,0.1619,0,v3_contrastiva
+45,Inscrição de servidor em curso de capacitação.,gestao_pessoas,gestao_pessoas,0.4095,1,v3_contrastiva
+46,Solicitação de remoção de servidor para outra unidade.,gestao_pessoas,gestao_pessoas,0.6021,1,v3_contrastiva
+47,Pedido de licença-prêmio.,gestao_pessoas,gestao_pessoas,0.2588,1,v3_contrastiva
+48,Ajuste na escala de trabalho presencial e remoto.,gestao_pessoas,gestao_pessoas,0.5339,1,v3_contrastiva
+49,Pedido de interrupção de férias por necessidade do serviço.,gestao_pessoas,gestao_pessoas,0.5223,1,v3_contrastiva
+50,Solicitação de licença-maternidade de servidora.,gestao_pessoas,gestao_pessoas,0.2831,1,v3_contrastiva
+101,"Venho requerer meu benefício de aposentadoria, pois completei 65 anos de idade.",concessao,concessao,0.6687,1,v0_atual
+102,Meu marido faleceu e preciso receber o benefício para sustentar nossos filhos.,concessao,manutencao,0.4953,0,v0_atual
+103,Estou afastado do trabalho por problema de coluna e quero o benefício por incapacidade.,concessao,gestao_pessoas,0.2384,0,v0_atual
+104,"Minha mãe, idosa e sem renda alguma, precisa do benefício assistencial.",concessao,concessao,0.7585,1,v0_atual
+105,Dei à luz semana passada e gostaria de pedir o pagamento a que tenho direito como mãe.,concessao,manutencao,0.3962,0,v0_atual
+106,O valor que recebo todo mês está errado e peço que seja recalculado.,manutencao,gestao_pessoas,0.1658,0,v0_atual
+107,Meu pagamento foi bloqueado e quero voltar a receber.,manutencao,atendimento,0.2431,0,v0_atual
+108,Mudei de cidade e preciso informar o novo endereço para continuar recebendo.,manutencao,manutencao,0.2012,1,v0_atual
+109,Troquei de banco e quero que o depósito seja feito na nova conta.,manutencao,gestao_pessoas,0.06,0,v0_atual
+110,"Segue comprovação de que o beneficiário está vivo, enviada pelo representante legal.",manutencao,gestao_pessoas,0.005,0,v0_atual
+111,Servidor é acusado de faltar ao trabalho por meses sem justificativa; solicito apuração.,disciplinar,gestao_pessoas,0.4916,0,v0_atual
+112,A comissão concluiu que houve infração e sugere punição ao envolvido.,disciplinar,disciplinar,0.4144,1,v0_atual
+113,Chefia comunica desvio de conduta de colega e pede abertura de procedimento apuratório.,disciplinar,disciplinar,0.4782,1,v0_atual
+114,Notificação para que o servidor apresente sua defesa no processo.,disciplinar,atendimento,0.5864,0,v0_atual
+115,Há suspeita de que um servidor favoreceu parentes; pedimos investigação.,disciplinar,gestao_pessoas,0.7014,0,v0_atual
+116,Esperei três horas na agência e ninguém me atendeu.,atendimento,atendimento,0.9999,1,v0_atual
+117,Gostaria de marcar um horário para ser atendido por videochamada.,atendimento,atendimento,0.8906,1,v0_atual
+118,Registro minha insatisfação com a forma como fui tratado pela atendente.,atendimento,atendimento,1.0,1,v0_atual
+119,O telefone da central nunca atende e não consigo tirar minhas dúvidas.,atendimento,atendimento,0.2682,1,v0_atual
+120,Quero saber qual documento devo levar quando for à unidade.,atendimento,manutencao,0.6031,0,v0_atual
+121,Preciso me ausentar por trinta dias para acompanhar familiar doente.,gestao_pessoas,atendimento,0.1161,0,v0_atual
+122,Segue a distribuição dos turnos da equipe para a próxima semana.,gestao_pessoas,gestao_pessoas,0.3678,1,v0_atual
+123,Solicito minha transferência para a unidade da capital.,gestao_pessoas,manutencao,0.8025,0,v0_atual
+124,Peço autorização para participar de um treinamento oferecido pelo órgão.,gestao_pessoas,concessao,0.1504,0,v0_atual
+125,Informo as horas trabalhadas pela servidora no mês passado.,gestao_pessoas,gestao_pessoas,0.6391,1,v0_atual

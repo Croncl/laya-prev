@@ -1,0 +1,26 @@
+id,texto,classe
+101,"Venho requerer meu benefício de aposentadoria, pois completei 65 anos de idade.",concessao
+102,"Meu marido faleceu e preciso receber o benefício para sustentar nossos filhos.",concessao
+103,"Estou afastado do trabalho por problema de coluna e quero o benefício por incapacidade.",concessao
+104,"Minha mãe, idosa e sem renda alguma, precisa do benefício assistencial.",concessao
+105,"Dei à luz semana passada e gostaria de pedir o pagamento a que tenho direito como mãe.",concessao
+106,"O valor que recebo todo mês está errado e peço que seja recalculado.",manutencao
+107,"Meu pagamento foi bloqueado e quero voltar a receber.",manutencao
+108,"Mudei de cidade e preciso informar o novo endereço para continuar recebendo.",manutencao
+109,"Troquei de banco e quero que o depósito seja feito na nova conta.",manutencao
+110,"Segue comprovação de que o beneficiário está vivo, enviada pelo representante legal.",manutencao
+111,"Servidor é acusado de faltar ao trabalho por meses sem justificativa; solicito apuração.",disciplinar
+112,"A comissão concluiu que houve infração e sugere punição ao envolvido.",disciplinar
+113,"Chefia comunica desvio de conduta de colega e pede abertura de procedimento apuratório.",disciplinar
+114,"Notificação para que o servidor apresente sua defesa no processo.",disciplinar
+115,"Há suspeita de que um servidor favoreceu parentes; pedimos investigação.",disciplinar
+116,"Esperei três horas na agência e ninguém me atendeu.",atendimento
+117,"Gostaria de marcar um horário para ser atendido por videochamada.",atendimento
+118,"Registro minha insatisfação com a forma como fui tratado pela atendente.",atendimento
+119,"O telefone da central nunca atende e não consigo tirar minhas dúvidas.",atendimento
+120,"Quero saber qual documento devo levar quando for à unidade.",atendimento
+121,"Preciso me ausentar por trinta dias para acompanhar familiar doente.",gestao_pessoas
+122,"Segue a distribuição dos turnos da equipe para a próxima semana.",gestao_pessoas
+123,"Solicito minha transferência para a unidade da capital.",gestao_pessoas
+124,"Peço autorização para participar de um treinamento oferecido pelo órgão.",gestao_pessoas
+125,"Informo as horas trabalhadas pela servidora no mês passado.",gestao_pessoas
