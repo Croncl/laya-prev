@@ -13,3 +13,7 @@
 ## D-013 Zero-shot inviável para produção; fine-tuning é requisito da Fase 2
 ## D-014 Nenhum limiar de `confidence` atinge 90% de acerto; calibrar após fine-tuning
 ## D-015 Pendente: v2/v3 possivelmente truncadas (head_max_len); baseline não avaliado no teste separado
+## D-016 Escopo: classificar normativos em PDF, por trecho (artigo/capítulo), agregando por norma (multirrótulo)
+## D-017 Latência deixa de ser restrição (classificação única, salva em base); trechos curtos mantidos pela qualidade
+## D-018 Setor: extraído do texto (bruto) e normalizado depois por mapa de aliases + inferência, pois nomes mudaram ao longo do tempo
+## D-019 Taxonomia ganha classe "outros/gerais"; OCR aplicado só quando necessário (--ocr)
